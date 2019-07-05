@@ -1,6 +1,6 @@
-package com.unichain.shark.api;
+package com.yoaotu.shark.api;
 
-import com.unichain.shark.model.VueLabel;
+import com.yoaotu.shark.model.VueLabel;
 import org.springframework.beans.factory.InitializingBean;
 
 import java.util.List;

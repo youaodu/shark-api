@@ -1,4 +1,4 @@
-package com.unichain.shark.utils;
+package com.yoaotu.shark.utils;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,10 +1,10 @@
-package com.unichain.shark.parser;
+package com.yoaotu.shark.parser;
 
 import com.alibaba.fastjson.JSONObject;
-import com.unichain.shark.api.ComponentAnalysis;
-import com.unichain.shark.core.ComponentFactory;
-import com.unichain.shark.model.Prop;
-import com.unichain.shark.model.VueLabel;
+import com.yoaotu.shark.api.ComponentAnalysis;
+import com.yoaotu.shark.core.ComponentFactory;
+import com.yoaotu.shark.model.Prop;
+import com.yoaotu.shark.model.VueLabel;
 import org.springframework.stereotype.Component;
 
 import java.util.LinkedList;

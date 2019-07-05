@@ -1,4 +1,4 @@
-package com.unichain.shark.model;
+package com.yoaotu.shark.model;
 
 import lombok.Data;
 

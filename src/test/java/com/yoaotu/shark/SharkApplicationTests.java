@@ -1,9 +1,8 @@
-package com.unichain.shark;
+package com.yoaotu.shark;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.unichain.shark.api.ComponentAnalysis;
-import com.unichain.shark.core.ComponentDispatch;
+import com.yoaotu.shark.core.ComponentDispatch;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

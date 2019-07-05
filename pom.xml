@@ -8,7 +8,7 @@
         <version>2.1.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.unichain</groupId>
+    <groupId>com.yoaotu</groupId>
     <artifactId>shark-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>shark</name>

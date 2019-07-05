@@ -1,4 +1,4 @@
-package com.unichain.shark;
+package com.yoaotu.shark;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
